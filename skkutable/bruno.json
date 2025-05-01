@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "skkutable",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
